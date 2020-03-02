@@ -2,8 +2,6 @@
 
 This is [Hasobi](https://twitter.com/hasobi)'s final project or thesis, written in python and for paper is written in LaTex.
 
-[Training file](https://github.com/hasobi/skripsi/blob/master/tugas_akhir_v3.ipynb)
-
 [Original NSL KDD Dataset from defcom17](https://github.com/defcom17/NSL_KDD)
 
 ## Contributing
